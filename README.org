@@ -1,4 +1,6 @@
 * GitHub Template to establish your Emacs Lisp Package Archive
+This is wrapper of [[https://github.com/10sr/github-elpa][github-elpa]], which builds your own ELPA repository.
+
 ** How to Use
 1. Push "Use this template"
 2. Create repository
